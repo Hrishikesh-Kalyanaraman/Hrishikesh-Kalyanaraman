@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hrishikesh-Kalyanaraman
 - 👀 I’m interested in Scientific Computing and Software Engineering 
-- 🌱 I’m currently learning JavaScript, Node, React
+- 🌱 I’m currently doing DevOps Research and lead the Strategy and Telemetry Team at Illini Solar Car
 - 📫 Contact me: hk39@illinois.edu
 
 <!---
